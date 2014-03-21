@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+{% css "$1" %}
+]]></content>
+    <tabTrigger>css</tabTrigger>
+    <scope>text.html</scope>
+</snippet>

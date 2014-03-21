@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{% app_js "$1" "$2" %}
+]]></content>
+  <tabTrigger>ajs</tabTrigger>
+  <description>Include App specific js file</description>
+  <scope>text.html.django</scope>
+</snippet>

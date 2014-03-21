@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{% app_css "$1" "$2" %}
+]]></content>
+  <tabTrigger>acss</tabTrigger>
+  <description>Include App specific css file</description>
+  <scope>text.html.django</scope>
+</snippet>

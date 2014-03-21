@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{% js "$1" %}
+]]></content>
+  <tabTrigger>js</tabTrigger>
+  <description>Create js template tag</description>
+  <scope>text.html</scope>
+</snippet>
