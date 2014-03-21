@@ -1,0 +1,32 @@
+{
+	"installed_packages":
+	[
+		"Djaneiro",
+		"Emmet",
+		"Gist",
+		"GitGutter",
+		"GotoOpenFile",
+		"isort",
+		"Jade",
+		"JavaScript & NodeJS Snippets",
+		"jQuery Snippets pack",
+		"JSHint",
+		"LESS",
+		"Package Control",
+		"PlainTasks",
+		"Pretty JSON",
+		"Python Flake8 Lint",
+		"SelectUntil",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	],
+	"repositories":
+	[
+		"https://github.com/mesuutt/Djaneiro/tree/mesuutt",
+		"https://sublime.wbond.net/channel.json"
+	]
+}
