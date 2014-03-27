@@ -70,6 +70,7 @@
 	"soda_folder_icons": true,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"tabSize":  4,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
