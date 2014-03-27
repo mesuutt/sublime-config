@@ -4,5 +4,5 @@
 ]]></content>
   <tabTrigger>js</tabTrigger>
   <description>Create js template tag</description>
-  <scope>text.html</scope>
+  <scope>text.html.django</scope>
 </snippet>

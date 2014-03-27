@@ -3,5 +3,5 @@
 {% css "$1" %}
 ]]></content>
     <tabTrigger>css</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.html.django</scope>
 </snippet>
