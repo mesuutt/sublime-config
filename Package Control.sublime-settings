@@ -12,6 +12,7 @@
 		"jQuery Snippets pack",
 		"JSHint",
 		"LESS",
+		"MarkdownEditing",
 		"Package Control",
 		"PlainTasks",
 		"Pretty JSON",
@@ -22,7 +23,8 @@
 		"Solarized Color Scheme",
 		"SublimeCodeIntel",
 		"Theme - Soda",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes"
 	],
 	"repositories":
 	[
