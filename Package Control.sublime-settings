@@ -25,10 +25,10 @@
 		"Solarized Color Scheme",
 		"SublimeLinter-contrib-stylint",
 		"Theme - SoDaReloaded"
+	],
+	"repositories":
+	[
+		"https://github.com/mesuutt/Djaneiro/tree/mesuutt",
+		"https://sublime.wbond.net/channel.json"
 	]
-    "repositories":
-    [
-        "https://github.com/mesuutt/Djaneiro/tree/mesuutt",
-        "https://sublime.wbond.net/channel.json"
-    ]
 }
