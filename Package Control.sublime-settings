@@ -1,34 +1,34 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Djaneiro",
+		"Color Highlighter",
 		"Emmet",
-		"Gist",
-		"GitGutter",
-		"GotoOpenFile",
-		"isort",
-		"Jade",
+		"Flask Completions",
+		"Goto-CSS-Declaration",
 		"JavaScript & NodeJS Snippets",
-		"jQuery Snippets pack",
+		"Jinja2",
+		"jQuery",
 		"JSHint",
 		"LESS",
-		"MarkdownEditing",
+		"Markdown Preview",
+		"Material Theme",
 		"Package Control",
-		"PlainTasks",
 		"Pretty JSON",
+		"Pylinter",
 		"Python Flake8 Lint",
-		"SelectUntil",
+		"Sass",
 		"SideBarEnhancements",
-		"SnippetMaker",
 		"Solarized Color Scheme",
-		"SublimeCodeIntel",
-		"Theme - Soda",
-		"Theme - Spacegray",
-		"Tomorrow Color Schemes"
-	],
-	"repositories":
-	[
-		"https://github.com/mesuutt/Djaneiro/tree/mesuutt",
-		"https://sublime.wbond.net/channel.json"
+		"SublimeLinter-contrib-stylint",
+		"Theme - SoDaReloaded"
 	]
+    "repositories":
+    [
+        "https://github.com/mesuutt/Djaneiro/tree/mesuutt",
+        "https://sublime.wbond.net/channel.json"
+    ]
 }
