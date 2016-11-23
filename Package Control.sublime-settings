@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Boxy Theme",
 		"Color Highlighter",
 		"Emmet",
 		"Flask Completions",
